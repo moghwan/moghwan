@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just another [README.md](https://moghwan.me)
 
 <!--
 **moghwan/moghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
