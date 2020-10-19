@@ -12,6 +12,7 @@ Currently I'm Freelancing for my own. Feel free to InMail me on [Linkedin](https
 
 ### Blogging my encoutered hassles
 <!-- BLOG-POST-LIST:START -->
-
+- [Is linux good enough for everyday programming?](https://dev.to/moghwan/is-linux-good-enough-for-everyday-programming-3kol)
+- [Setup Prestashop CMS with Docker Compose](https://dev.to/moghwan/setup-prestashop-with-docker-compose-39mn)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more hassles...](https://moghwan.me/blog)
