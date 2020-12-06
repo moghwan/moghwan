@@ -8,7 +8,7 @@ Front/Back-end PHP Developer, currently digging into React(Native) ecosystem and
 
 Very comfortable with Web technologies such as Prestashop, Symfony, Laravel, VueJS and Ionic framework.
 
-Currently I'm Freelancing for my own. Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan).
+Currently I'm working [@LNKBOOT](https://twitter.com/LNKBOOT) as PHP Full Stack Developer. Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan).
 
 ### Blogging my encoutered hassles
 <!-- BLOG-POST-LIST:START -->
