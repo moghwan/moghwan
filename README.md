@@ -2,12 +2,12 @@
 
 ### Hi, Marwane here 👋
 
-<!-- I don't like Full Stack Developer job title tbh -->
 Front/Back-end PHP Developer, currently digging into React(Native) ecosystem and very interested in open source contributions.
 
 Very comfortable with Web technologies such as Prestashop, Laravel, VueJS and Ionic framework.
 
-Currently I'm working [@L'nkboot](https://twitter.com/LNKBOOT) as Web Developer. Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan).
+<!-- I hate the FullStack Developer job title tbh -->
+Currently I'm working as a (FullStack)Web Developer at a web agency based in Tangier. Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan).
 
 ### Blogging my encoutered hassles
 <!-- BLOG-POST-LIST:START -->
