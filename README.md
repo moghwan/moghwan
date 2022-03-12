@@ -29,6 +29,6 @@
 ![](https://komarev.com/ghpvc/?username=moghwan)
 [![](https://wakatime.com/badge/user/511f0a0a-6747-4b42-8e92-cbc3d9e8f61b.svg)](https://wakatime.com/@moghwan)
 
-![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord)
+![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord&custom_title=Github%20Stats)
 ![moghwan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moghwan&theme=nord&langs_count=6&layout=compact)
 
