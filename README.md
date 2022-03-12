@@ -7,11 +7,11 @@
 <hr>
 
 
--  ⚡️ **[[WIP](https://github.com/moghwan/bouayadapp-laravel)]** I'm currently working on my discontinued app [@bouayadapp](https://twitter.com/moghwan/status/1275170535018835970) 's [API]() for a full rewrite
+-  ⚡️ **[[WIP](https://github.com/moghwan/bouayadapp-laravel)]** I'm currently working on my discontinued app [@bouayadapp](https://twitter.com/moghwan/status/1275170535018835970) 's API for a full rewrite
 - 🌱 I'm currently refining my knowledge in Laravel/VueJs/Inertia.js and digging into React(Native) ecosystem
 - 🎯 Currently I'm working as a Web Developer using Prestashop and Laravel in a web agency based in Tangier
 - 📪️ Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan)
-- ⌨️ Fact: Big Fan of the 65% keyboard layout
+- 💭️ Fact: Big Fan of the 65% keyboard layout
 
 <hr>
 
@@ -30,5 +30,6 @@
 [![](https://wakatime.com/badge/user/511f0a0a-6747-4b42-8e92-cbc3d9e8f61b.svg)](https://wakatime.com/@moghwan)
 
 ![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord&custom_title=Github%20Stats)
-![moghwan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moghwan&theme=nord&langs_count=6&layout=compact)
+
+[//]: # (![moghwan's Wakatime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=moghwan&theme=nord&langs_count=6&layout=compact&#41;)
 
