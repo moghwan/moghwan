@@ -38,14 +38,13 @@
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-PHP                      3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.67% 
-Smarty                   1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.33%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -62,7 +61,7 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/07/2022 00:18:51 UTC
+ Last Updated on 16/07/2022 00:22:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord&custom_title=Github%20Stats) -->
