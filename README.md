@@ -38,8 +38,9 @@
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Text                     2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   75.28% 
-TOML                     0 secs              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.72%
+Text                     2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.98% 
+TOML                     0 secs              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.62% 
+JavaScript               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.4%
 
 🔥 Editors: 
 WebStorm                 3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
@@ -62,7 +63,7 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/08/2022 00:16:26 UTC
+ Last Updated on 28/08/2022 00:19:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord&custom_title=Github%20Stats) -->
