@@ -1,6 +1,6 @@
 <h2 align="center">Hi, Marwane here 👋</h2>
 <p align="center">
-  <a href="https://moghwan.me/blog">Blog</a> •
+  <a href="https://blog.moghwan.me">Blog</a> •
   <a href="https://twitter.com/moghwan">Twitter</a>
 </p>
 
@@ -9,7 +9,7 @@
 
 -  ⚡️ **[WIP]** I'm currently working on my discontinued app [@bouayadapp](https://twitter.com/moghwan/status/1275170535018835970) 's API for a full rewrite
 - 🌱 I'm currently refining my knowledge in Laravel/VueJs/Inertia.js and digging into React(Native) ecosystem
-- 🎯 Currently I'm working as a Web Developer using Prestashop and Laravel in a web agency based in Tangier
+- 🎯 Currently I'm working as a Backedn Engineer using Wordpress, React and Laravel.
 - 📪️ Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan)
 - 💭️ Fact: Big Fan of the 65% keyboard layout
 
