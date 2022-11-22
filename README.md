@@ -15,16 +15,6 @@
 
 <hr>
 
-### 📝 Blogging my encoutered hassles
-<!-- BLOG-POST-LIST:START -->
-- [Things you should know before starting Prestashop development](https://dev.to/moghwan/things-you-should-know-before-starting-prestashop-development-inf)
-- [Dockerize your Laravel project with Laradock](https://dev.to/moghwan/dockerize-your-laravel-project-with-laradock-2io1)
-- [Is linux good enough for everyday programming?](https://dev.to/moghwan/is-linux-good-enough-for-everyday-programming-3kol)
-- [Setup Prestashop CMS with Docker Compose](https://dev.to/moghwan/setup-prestashop-with-docker-compose-39mn)
-<!-- BLOG-POST-LIST:END -->
-
-<hr>
-
 ### 📊 Some stats:
 ![](https://komarev.com/ghpvc/?username=moghwan)
 [![](https://wakatime.com/badge/user/511f0a0a-6747-4b42-8e92-cbc3d9e8f61b.svg)](https://wakatime.com/@moghwan)
