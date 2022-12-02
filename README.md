@@ -7,11 +7,11 @@
 <hr>
 
 
--  ⚡️ **[WIP]** I'm currently working on my discontinued app [@bouayadapp](https://twitter.com/moghwan/status/1275170535018835970) 's API for a full rewrite
+- ⚡️ I'm currently working on my discontinued app [@bouayadapp](https://twitter.com/moghwan/status/1275170535018835970) 's API for a full rewrite **[WIP]**
 - 🌱 I'm currently refining my knowledge in Laravel/VueJs/Inertia.js and digging into React(Native) ecosystem
 - 🎯 Currently I'm working as a Backedn Engineer using Wordpress, React and Laravel.
 - 📪️ Feel free to InMail me on [Linkedin](https://linkedin.com/in/moghwan)
-- 💭️ Fact: Big Fan of the 65% keyboard layout
+- 💭️ Fact: I'm a single monitor user
 
 <hr>
 
