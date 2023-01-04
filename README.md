@@ -22,6 +22,27 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--768%20Thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Casablanca
+
+💬 Programming Languages: 
+PHP                      1 hr 51 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.9% 
+Vue.js                   58 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.69% 
+JSON                     25 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.1% 
+JavaScript               18 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.19% 
+Markdown                 6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.65%
+
+🔥 Editors: 
+PhpStorm                 2 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.8% 
+WebStorm                 1 hr 27 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.2%
+
+💻 Operating System: 
+Linux                    3 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -35,7 +56,7 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 03/01/2023 00:15:59 UTC
+ Last Updated on 04/01/2023 00:16:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord&custom_title=Github%20Stats) -->
