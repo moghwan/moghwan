@@ -35,8 +35,8 @@ Vue.js                   47 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 Shell Script             30 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.22%
 
 🔥 Editors: 
-PhpStorm                 4 hrs 38 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.39% 
-WebStorm                 1 hr 35 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.61%
+PhpStorm                 4 hrs 38 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.4% 
+WebStorm                 1 hr 35 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.6%
 
 💻 Operating System: 
 Linux                    6 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
@@ -56,7 +56,7 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 14/01/2023 00:18:48 UTC
+ Last Updated on 15/01/2023 00:16:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![moghwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moghwan&langs_count=6&hide=html&layout=compact&theme=nord&custom_title=Github%20Stats) -->
